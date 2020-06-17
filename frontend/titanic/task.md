@@ -42,5 +42,5 @@ https://github.com/altkraft/for-applicants/raw/master/frontend/titanic/passenger
 ```
 
 
-Задание необходимо залить на свой аккаунт github или bitbucket.
+Готовый к анализу код необходимо залить на свой аккаунт github или bitbucket.
 По всем вопросам в телеграм https://t.me/cp1251.
