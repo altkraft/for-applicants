@@ -41,6 +41,7 @@ https://github.com/altkraft/for-applicants/raw/master/frontend/titanic/passenger
 +----------------------------------------------------------------------+
 ```
 
+Сборка и тесты - на усмотрение разработчика.
 
 Задание необходимо залить на свой аккаунт github или bitbucket.
 По всем вопросам в телеграм https://t.me/cp1251.
