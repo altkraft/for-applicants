@@ -46,7 +46,7 @@ https://github.com/altkraft/for-applicants/raw/master/frontend/titanic/passenger
 
 Для разработки следует использовать шаблон:
 
-1. Скачайте и распакуйте архив
+1. [Скачайте](https://raw.githubusercontent.com/altkraft/for-applicants/master/frontend/titanic_advanced/react_ts_template.zip) и распакуйте архив
 
 2. Установите зависимости
    ```sh
